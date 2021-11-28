@@ -13,8 +13,8 @@
 
 #### :mailbox: Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Oshan Wijewardena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-[![Mail Badge](https://img.shields.io/badge/-OshanWijewardena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-Oshan_Wijewardena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
+[![Mail Badge](https://img.shields.io/badge/-Oshan_Wijewardena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
 [![Mail Badge](https://img.shields.io/badge/-Oshan_Wijewardena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
 
 #### Top Technologies
@@ -53,8 +53,8 @@
 <!--   &nbsp;&nbsp;&nbsp;<a href="https://github.com/ImashaKuruppu25/SoundSpace">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImashaKuruppu25&repo=SoundSpace&theme=dracula&show_owner=true&hide_border=true" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://github.com/OKWijewardena/Simple_Android_Calculater">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImashaKuruppu25&repo=Simple_Android_Calculater&theme=dracula&show_owner=true&hide_border=true" />
+  <a href="https://github.com/OKWijewardena/AutoCare-MAD-Project-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OKWijewardena&repo=AutoCare-MAD-Project&theme=dracula&show_owner=true&hide_border=true" />
   </a>
 <!-- 
   <br>
