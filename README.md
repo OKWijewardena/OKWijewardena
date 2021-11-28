@@ -13,9 +13,9 @@
 
 #### :mailbox: Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Imasha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-[![Mail Badge](https://img.shields.io/badge/-@i_m_o_xxi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
-[![Mail Badge](https://img.shields.io/badge/-Imasha_Kuruppu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+[![Linkedin Badge](https://img.shields.io/badge/-Oshan Wijewardena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
+[![Mail Badge](https://img.shields.io/badge/-OshanWijewardena-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+[![Mail Badge](https://img.shields.io/badge/-Oshan_Wijewardena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
 
 #### Top Technologies
 
@@ -24,7 +24,7 @@
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ImashaKuruppu25.ImashaKuruppu25)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OKWijewardena.OKWijewardena)
 
 ---
 
@@ -50,10 +50,10 @@
 
   <br>
   
-  &nbsp;&nbsp;&nbsp;<a href="https://github.com/ImashaKuruppu25/SoundSpace">
+<!--   &nbsp;&nbsp;&nbsp;<a href="https://github.com/ImashaKuruppu25/SoundSpace">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImashaKuruppu25&repo=SoundSpace&theme=dracula&show_owner=true&hide_border=true" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ImashaKuruppu25/Simple_Android_Calculater">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="https://github.com/OKWijewardena/Simple_Android_Calculater">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImashaKuruppu25&repo=Simple_Android_Calculater&theme=dracula&show_owner=true&hide_border=true" />
   </a>
 <!-- 
@@ -71,6 +71,6 @@
 
 <!-- List of web sites -->
 
-[instagram]: https://www.instagram.com/i_m_o_xxi/
+[instagram]: #
 [linkedin]: #
-[gmail]: mailto:imashakuruppu25@gmail.com
+[gmail]: mailto:oshan.wijewardena@gmail.com
