@@ -1,4 +1,4 @@
-### Hi there, I'm Imasha Kuruppu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there, I'm Oshan Wijewardena <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### I'm a Student and Developer!!
 
@@ -7,7 +7,7 @@
 
 ---
 
-<img align="center" alt="ImashaKuruppu25's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ImashaKuruppu25&show_icons=true&hide_border=true&theme=radical"/>&nbsp;<img align="center" alt="ImashaKuruppu25's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashaKuruppu25&layout=compact&theme=radical&hide_border=true"/>
+<img align="center" alt="OKWijewardena's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=OKWijewardena&show_icons=true&hide_border=true&theme=radical"/>&nbsp;<img align="center" alt="OKWijewardena's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OKWijewardena&layout=compact&theme=radical&hide_border=true"/>
 
 <br>
 
