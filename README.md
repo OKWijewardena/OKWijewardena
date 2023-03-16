@@ -2,7 +2,7 @@
 
 ### I'm a Student and Developer!!
 
-- 🌱 I’m currently learning angular js 😎
+- 🌱 I’m currently learning Flutter 😎
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
