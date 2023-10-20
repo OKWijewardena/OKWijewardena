@@ -2,8 +2,8 @@
 
 ### I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Flutter 😎
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning OpenAI Implementation 😎
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ---
 
